@@ -1,7 +1,4 @@
-
-https://github.com/user-attachments/assets/c3db829d-3a4d-4ae3-8e6e-93791f9f861c
-Uploading 0503.mp4…
-
+![image](https://github.com/user-attachments/assets/d7e05ebd-3698-4f21-a656-2da534e30b11)
 
 # 📚 Chat With Multiple PDFs using Gemini AI 🤖
 
