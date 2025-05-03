@@ -1,3 +1,8 @@
+
+https://github.com/user-attachments/assets/c3db829d-3a4d-4ae3-8e6e-93791f9f861c
+Uploading 0503.mp4…
+
+
 # 📚 Chat With Multiple PDFs using Gemini AI 🤖
 
 This Streamlit app allows you to **chat with multiple PDF documents at once** using **Google Gemini AI**. It's perfect for querying long or complex documents like research papers, eBooks, legal files, and more — all in a conversational format.
